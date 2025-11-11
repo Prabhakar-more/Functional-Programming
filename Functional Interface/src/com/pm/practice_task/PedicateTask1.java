@@ -17,7 +17,6 @@ public class PedicateTask1 {
 }
 
 
-
 /*
  * Problem:
 Write a Java program that uses a Predicate<String> lambda to check if a given string has more than 5 characters.
