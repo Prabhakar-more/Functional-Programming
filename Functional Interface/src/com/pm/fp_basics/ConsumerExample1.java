@@ -20,7 +20,6 @@ public class ConsumerExample1 {
 }    
 
 
-
 /*
 Consumer
 
