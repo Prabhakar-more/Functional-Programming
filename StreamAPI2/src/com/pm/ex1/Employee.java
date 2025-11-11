@@ -6,7 +6,7 @@ public class Employee
 	private Integer empId;
 	private String city;
 	private String designation;
-	
+
 	
 	//no-param constructor
 	public Employee() {
@@ -49,7 +49,6 @@ public class Employee
 		return "Employee [empName=" + empName + ", empId=" + empId + ", city=" + city + ", designation=" + designation
 				+ "]";
 	}
-	
 	
 
 }

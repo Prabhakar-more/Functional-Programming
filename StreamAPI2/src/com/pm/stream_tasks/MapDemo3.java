@@ -23,6 +23,8 @@ public class MapDemo3
 		System.out.println("Employees record with original salary : ");
 		listOfEmp.forEach(System.out::println);
 		
+		System.out.println("\n-------------------------------------\n");
+		
 		//Adding 300D salary as ana increment to all the employees
 		System.out.println("Employees record with bonus amount : ");
 		listOfEmp.stream().map(emp -> emp.salary() + 300).forEach(System.out::println);
