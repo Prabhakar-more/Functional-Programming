@@ -17,7 +17,7 @@ public class ConsumerExample1 {
             printWelcome.accept(name);  // Consumer in action
         }
     }
-}
+}    
 
 
 
