@@ -7,13 +7,13 @@ public class ConsumerTask1 {
 
 	public static void main(String[] args) {
 		// Define Consumer
-        Consumer<String> printWelcome = name -> System.out.println(name.toUpperCase());
+        Consumer<String> printUpperCase = name -> System.out.println(name.toUpperCase());
 
         // Create a list of names
         List<String> names = List.of("java", "lambda", "interfaces");
 
         for (String name : names) {
-            printWelcome.accept(name); 
+        	printUpperCase.accept(name); 
         } 
 
 	}
