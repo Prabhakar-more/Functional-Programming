@@ -55,6 +55,6 @@ public class PredicateAllMethodsExample {
         for (String w : words) {
             System.out.println("'" + w + "'" + " is not empty? " + isNotEmpty.test(w));
         }
-    }
+    }   
 }
 
