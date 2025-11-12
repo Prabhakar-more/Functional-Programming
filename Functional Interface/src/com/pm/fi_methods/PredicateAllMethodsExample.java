@@ -1,4 +1,4 @@
-package com.pm.fp_methods;
+package com.pm.fi_methods;
 
 import java.util.function.Predicate;
 import java.util.List;

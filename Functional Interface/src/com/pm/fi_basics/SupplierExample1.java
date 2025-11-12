@@ -1,4 +1,4 @@
-package com.pm.fp_basics;
+package com.pm.fi_basics;
 
 import java.util.function.Supplier;
 
